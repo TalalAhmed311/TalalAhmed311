@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=talalahmed311&label=Profile%20views&color=0e75b6&style=flat" alt="talalahmed311" /> </p>
 
-- 🔭 I’m currently working on **Object Detection and MLOps pipeline**
+- 🔭 I’m currently working on **Voice Identification and Audio Driven systems**
 
-- 🌱 I’m currently learning **Medical Imaging, Transformers, AWS, MLFLOW and Algorithm Design**
+- 🌱 I’m currently learning **Pose Transfer, Audio-Driven Animation, Transformers, AWS, MLFLOW and Algorithm Design**
 
 - 📝 I regularly write articles on [https://medium.com/@talalahq311](https://medium.com/@talalahq311)
 
