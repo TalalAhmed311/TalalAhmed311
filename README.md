@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on **Text to Image and LLMs**
 
-- 🌱 I’m currently learning **Pose Transfer, Audio-Driven Animation, Transformers and Algorithm Design**
-
 - 📝 I regularly write articles on [https://medium.com/@talalahq311](https://medium.com/@talalahq311)
 
 - 💬 Ask me about **TensorFlow,Pytorch, Deep Learning, Machine learning, Data Analytics,Skimage, Sklearn,Computer Vision and Research Paper Replication**
