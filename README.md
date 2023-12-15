@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Talal Ahmed</h1>
-<h3 align="center">I specialize in leveraging Large Language Models (LLMs) to deliver cutting-edge solutions for businesses. With expertise in FastAPI, Langchain, Docker, NestJS, Postgres, Haystack, and RAG, I bring practical experience in developing robust backend applications. Each project in my portfolio showcases the seamless integration of these technologies, highlighting the transformative power of AI in turning ideas into intelligent, actionable solutions for businesses.</h3>
+<h4 align="center">I specialize in leveraging Large Language Models (LLMs) to deliver cutting-edge solutions for businesses. With expertise in FastAPI, Langchain, Docker, NestJS, Postgres, Haystack, and RAG, I bring practical experience in developing robust backend applications. Each project in my portfolio showcases the seamless integration of these technologies, highlighting the transformative power of AI in turning ideas into intelligent, actionable solutions for businesses.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=talalahmed311&label=Profile%20views&color=0e75b6&style=flat" alt="talalahmed311" /> </p>
 
