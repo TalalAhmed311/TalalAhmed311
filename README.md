@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Talal Ahmed</h1>
-<h3 align="center">A Machine learning Engineer and a AI Research Enthusiast who uses his skills for solving different problems in Computer Vision, Natural Language Processing and Data Analytics.</h3>
+<h3 align="center">I specialize in leveraging Large Language Models (LLMs) to deliver cutting-edge solutions for businesses. With expertise in FastAPI, Langchain, Docker, NestJS, Postgres, Haystack, and RAG, I bring practical experience in developing robust backend applications. Each project in my portfolio showcases the seamless integration of these technologies, highlighting the transformative power of AI in turning ideas into intelligent, actionable solutions for businesses.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=talalahmed311&label=Profile%20views&color=0e75b6&style=flat" alt="talalahmed311" /> </p>
 
-- 🔭 I’m currently working on **Text to Image and LLMs**
+- 🔭 I’m currently working on **Building AI Agents Platform to automate workflows using LLMs*
 
 - 📝 I regularly write articles on [https://medium.com/@talalahq311](https://medium.com/@talalahq311)
 
-- 💬 Ask me about **TensorFlow,Pytorch, Deep Learning, Machine learning, Data Analytics,Skimage, Sklearn,Computer Vision and Research Paper Replication**
+- 💬 Ask me about **TensorFlow,Pytorch,Langchain, Docker, FastAPI, NestJS Deep Learning, Machine learning, Data Analytics,Skimage, Sklearn,Computer Vision and Research Paper Replication**
 
 - 📫 How to reach me **talalahq311@gmail.com**
 
