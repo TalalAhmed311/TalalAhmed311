@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@talalahq311](https://medium.com/@talalahq311)
 
-- 💬 Ask me about **TensorFlow,Pytorch,Langchain, Docker, FastAPI, NestJS Deep Learning, Machine learning, Data Analytics,Skimage, Sklearn,Computer Vision and Research Paper Replication**
+- 💬 Ask me about **TensorFlow,Pytorch,Langchain, Docker, FastAPI, Deep Learning, Machine learning, Data Analytics,Computer Vision and Research Papers**
 
 - 📫 How to reach me **talalahq311@gmail.com**
 
